@@ -1,2 +1,2 @@
-# cli_tool
-cli_tool which help to start flutter project 
+A sample command-line application with an entrypoint in `bin/`, library code
+in `lib/`, and example unit test in `test/`.
